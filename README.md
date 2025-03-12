@@ -180,8 +180,8 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 📞 Contact
 
-Pour toute question ou suggestion, n'hésitez pas à nous contacter à [votre-email@exemple.com](mailto:votre-email@exemple.com).
+Pour toute question ou suggestion, n'hésitez pas à me contacter à [meynadier.renaud@gmail.com](mailto:meynadier.renaud@gmail.com).
 
 ---
 
-Développé avec ❤️ par [Votre Nom]
+Développé avec ❤️ par MR RM
